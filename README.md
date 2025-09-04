@@ -1,4 +1,4 @@
-# 🚀 Grupo de Extensão [Nome do Grupo]  
+# 🚀 Grupo de Extensão [Nome do Grupo?]  
 
 Bem-vindo ao repositório **portal** do nosso grupo de extensão da Universidade [Nome]!  
 Aqui você encontra informações sobre os projetos, atividades e como participar.  
