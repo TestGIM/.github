@@ -1,12 +1,27 @@
-## Hi there 👋
+# 🚀 Grupo de Extensão [Nome do Grupo]  
 
-<!--
+Bem-vindo ao repositório **portal** do nosso grupo de extensão da Universidade [Nome]!  
+Aqui você encontra informações sobre os projetos, atividades e como participar.  
 
-**Here are some ideas to get you started:**
+## 🎯 Missão
+Promover a integração entre **universidade, laboratórios e empresas parceiras**,  
+conectando alunos a desafios reais e inovação.  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌱 Como participar
+1. Faça um fork deste repositório.  
+2. Abra uma issue em [Convite para participar](../../issues/new).  
+3. Participe das reuniões semanais e escolha um projeto para colaborar!  
+
+## 📚 Projetos em andamento
+- [projeto-app-cidadania](https://github.com/ORG/projeto-app-cidadania)  
+- [projeto-mentoria](https://github.com/ORG/projeto-mentoria)  
+- [evento-hackathon](https://github.com/ORG/evento-hackathon)  
+
+## 📖 Wiki
+Acesse a [Wiki do Portal](../../wiki) para ver:  
+- Manual do participante  
+- Agenda de atividades  
+- Guia de contribuição  
+
+## 🌐 Site
+Acesse nossa [GitHub Page](https://ORG.github.io/portal) para notícias e novidades!
