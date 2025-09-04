@@ -1,6 +1,6 @@
-# 🌟 Grupo de Extensão [Nome]
+# 🌟 Grupo de Integracão Maker
 
-Bem-vindo à organização oficial do Grupo de Extensão [Nome]!  
-Aqui desenvolvemos projetos de impacto em parceria com alunos, laboratórios e empresas.  
+Bem-vindo à organização oficial do GIM!  
+Aqui desenvolvemos projetos de impacto com o aluno como protagonista em parceria a universidade laboratórios e empresas.  
 
 👉 Veja mais em nosso repositório [Portal](https://github.com/TestGIM/portal).  
