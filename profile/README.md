@@ -22,7 +22,7 @@ Não importa sua área de formação ou nível de conhecimento:
 ---
 
 ## ✨ Junte-se à nova fase do GIM
-Começamos a construir uma nova história, e precisamos de você para crescer e evoluir.  
+Começamos a construir uma nova história, e precisamos de você para fazer e acontecer.  
 Seja protagonista. Traga sua energia, suas ideias, sua visão. Vamos juntos transformar a sociedade através da tecnologia, da criatividade e da colaboração.   
 
 👉 Comece pelo nosso [Portal do GIM](https://github.com/TestGIM/grupo-integracao-maker)
